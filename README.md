@@ -1,2 +1,2 @@
-# flutter
-flutter practicals
+# devops
+devops practicals
